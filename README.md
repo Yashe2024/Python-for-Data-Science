@@ -1,9 +1,10 @@
-Python for Data Science
+****Python for Data Science****
 
 Welcome to the Python for Data Science repository!
 This repository contains various Jupyter notebooks and datasets designed to help you learn and apply Python concepts in the context of data science.
 
-**Contents**
+****Contents****
+
 Notebooks
 
 Arithmetic Operations.ipynb: Basic arithmetic operations in Python.
@@ -52,11 +53,11 @@ Variables & Keywords.ipynb: Understanding variables and keywords in Python.
 
 map, reduce & filter.ipynb: Using map, reduce, and filter functions for data processing.
 
-Dataset
+******Dataset******
 
 Churn_Modelling.csv: Dataset used for modeling customer churn.
 
-How to Use
+******How to Use******
 
 Clone or Download the Repository: Clone this repository using Git or download it as a ZIP file.
 
